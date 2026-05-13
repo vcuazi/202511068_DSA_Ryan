@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
 
-string names[7]={"Zuck","Shayd","Emely","Amjed","Esther","Manar","Anne"};
+string names[7]={"Ryan","Lecturer","Ellie","Amjed","Esther","Manar","Anne"};
 string sort;
     
 for(int x=0;x<=6;x++){
