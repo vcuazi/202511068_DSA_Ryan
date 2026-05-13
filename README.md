@@ -1,2 +1,2 @@
 # 202511068_DSA_Ryan
-C++ Learning assignment 
+C++ Learning Exercises and assignments 
